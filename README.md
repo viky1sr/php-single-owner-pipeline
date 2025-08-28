@@ -7,8 +7,8 @@ This repository provides both **documentation (EN/ID)** and **examples** to ensu
 
 ## 📖 Documentation
 
-- [🇮🇩 Panduan Single Owner Anti-Pattern (Bahasa Indonesia)](docs/guidelines-id.md)
-- [🇬🇧 Single Owner Anti-Pattern Guidelines (English)](docs/guidelines-en.md)
+- [ID – Panduan Single Owner Anti-Pattern (Bahasa Indonesia)](docs/guidelines-id.md)
+- [EN – Single Owner Anti-Pattern Guidelines (English)](docs/guidelines-en.md)
 
 ---
 
